@@ -18,19 +18,19 @@ public class Blanquetas {
     // getters and setters
 
     public String getPosition() {
-        return position;
+        return this.position;
     }
 
     public String getMachine() {
-        return machine;
+        return this.machine;
     }
 
     public String getFaca() {
-        return faca;
+        return this.faca;
     }
 
     public int getExpositions() {
-        return expositions;
+        return this.expositions;
     }
 
     public void setPosition(String position) {
